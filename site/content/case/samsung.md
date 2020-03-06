@@ -1,5 +1,5 @@
 ---
 title: Samsung
-image: img/samsung-bg.png
+image: img/case-samsung-0.png
 ---
 fdafdafdsa

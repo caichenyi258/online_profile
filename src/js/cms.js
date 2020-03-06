@@ -10,4 +10,5 @@ import ProductsPreview from "./cms-preview-templates/products";
 import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
 
+CMS.registerPreviewStyle(styles, { raw: true });
 CMS.init();

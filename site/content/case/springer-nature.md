@@ -6,7 +6,8 @@ image: img/case-springer-nature-0.png
 
 *Service Design. Digital Solution. UX design.*
 
-Year 2019 Tools and methods: Stakeholder interview, Contextual Inquiry, User Interview, User testing\
+Year 2019\
+Tools and methods: Stakeholder interview, Contextual Inquiry, User Interview, User testing\
 Client: Springer Nature\
 Field Location: London, Berlin, Shanghai, Beijing, Nanjing, Guangzhou\
 Team: Ice Li, Niamh Walsh, Melissa Shaw

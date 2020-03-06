@@ -36,6 +36,10 @@
   color: var(--black);
 }
 
+.blue {
+  color: var(--blue);
+}
+
 .bg-primary {
   background-color: var(--primary);
 }

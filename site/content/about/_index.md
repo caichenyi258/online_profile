@@ -1,13 +1,7 @@
 ---
-title: "About"
-avatar: img/illustrations-coffee.svg
-clients:
-    - image: img/illustrations-coffee.svg
-    - image: img/illustrations-coffee.svg
-    - image: img/illustrations-coffee.svg
-    - image: img/illustrations-coffee.svg
-    - image: img/illustrations-coffee.svg
-    - image: img/illustrations-coffee.svg
+title: About
+avatar: img/about-linkedin.png
+clients: []
 ---
 As an anthropologist and a writer, I explore the beliefs, behaviors, stories and journeys that shape us. I have more than ten years of experience in consumer research, global ethnography and narrative non-fiction writing. 
 

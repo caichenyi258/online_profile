@@ -6,7 +6,7 @@ public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "case" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "case" # Used in the UI, ie.: "New Post"
+    label: "Case" # Used in the UI, ie.: "New Post"
     folder: "site/content/case" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -45,13 +45,13 @@ collections: # A list of collections the CMS should be able to edit
              {label: "Subtitle", name: "subtitle", widget: "text"}
              ]}
       - file: "site/content/about/_index.md"
-          label: "About Page"
-          name: "about"
-          fields:
-            - {label: Title, name: title, widget: string}
-            - {label: Avatar, name: avatar, widget: image}
-            - {label: Introducation, name: body, widget: markdown}
-            - {label: Clients, name: clients, widget: list,
-              fields: [
-              {label: "Image", name: "image", widget: "image"}
-              ]}
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Avatar, name: avatar, widget: image}
+          - {label: Introducation, name: body, widget: markdown}
+          - {label: Clients, name: clients, widget: list,
+            fields: [
+            {label: "Image", name: "image", widget: "image"}
+            ]}

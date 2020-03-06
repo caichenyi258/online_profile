@@ -1,5 +1,5 @@
 ---
-Title: "Portfolio"
+title: "Portfolio"
 cases:
     - image: img/illustrations-coffee.svg
       title: "Nature.com China landing"

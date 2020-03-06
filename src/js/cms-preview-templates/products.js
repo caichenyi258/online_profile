@@ -32,8 +32,8 @@ export default class PostPreview extends React.Component {
 
       <div className="mw7 center">
         <div className="mw6 ph3 mb3">
-          <h3 className="f3 b lh-title mb2">{entry.getIn(["data", "main", "heading"])}</h3>
-          <p>{entry.getIn(["data", "main", "description"])}</p>
+          <h3 className="f3 b lh-title mb2">{entry.getIn(["data", "home.html", "heading"])}</h3>
+          <p>{entry.getIn(["data", "home.html", "description"])}</p>
         </div>
       </div>
 
@@ -41,15 +41,15 @@ export default class PostPreview extends React.Component {
 
         <div className="flex flex-wrap mhn1">
           <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image1", "image"]))}/>
+            <img src={getAsset(entry.getIn(["data", "home.html", "image1", "image"]))}/>
           </div>
 
           <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image2", "image"]))}/>
+            <img src={getAsset(entry.getIn(["data", "home.html", "image2", "image"]))}/>
           </div>
 
           <div className="w-100 ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image3", "image"]))}/>
+            <img src={getAsset(entry.getIn(["data", "home.html", "image3", "image"]))}/>
           </div>
         </div>
       </div>

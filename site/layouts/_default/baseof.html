@@ -2,10 +2,13 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body class="sans-serif">
+  <div class="pa5">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
+
+  </div>
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 

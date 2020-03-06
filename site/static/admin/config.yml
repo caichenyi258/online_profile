@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
       - {label: "Other Cases", name: cases, widget: list,
          fields: [
          {label: "Image", name: "image", widget: "image"},
@@ -50,4 +50,8 @@ collections: # A list of collections the CMS should be able to edit
           fields:
             - {label: Title, name: title, widget: string}
             - {label: Avatar, name: avatar, widget: image}
-            - {label: Body, name: body, widget: markdown}
+            - {label: Introducation, name: body, widget: markdown}
+            - {label: Clients, name: clients, widget: list,
+              fields: [
+              {label: "Image", name: "image", widget: "image"}
+              ]}

@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
          fields: [
          {label: "Image", name: "image", widget: "image"},
          {label: "Title", name: "title", widget: "text"},
-         {label: "Subtitle", name: "subtitle", widget: "text"}
+         {label: "Subtitle", name: "subtitle", widget: "text"},
          {label: "Link", name: "link", widget: "text"}
          ]}
   - name: "pages"
@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
              fields: [
              {label: "Image", name: "image", widget: "image"},
              {label: "Title", name: "title", widget: "text"},
-             {label: "Subtitle", name: "subtitle", widget: "text"}
+             {label: "Subtitle", name: "subtitle", widget: "text"},
              {label: "Link", name: "link", widget: "text"}
              ]}
       - file: "site/content/portfolio/_index.md"
@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
              fields: [
              {label: "Image", name: "image", widget: "image"},
              {label: "Title", name: "title", widget: "text"},
-             {label: "Subtitle", name: "subtitle", widget: "text"}
+             {label: "Subtitle", name: "subtitle", widget: "text"},
              {label: "Link", name: "link", widget: "text"}
              ]}
       - file: "site/content/about/_index.md"

@@ -5,16 +5,23 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
+  - name: "case" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "case" # Used in the UI, ie.: "New Post"
+    folder: "site/content/case" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Sections", name: "sections", widget: list,
+         fields:[
+         {label: "Title", name: "title", widget: "text"},
+         {label: "Body", name: "body", widget: "markdown"}
+         ]}
+      - {label: "Cases", name: cases, widget: list,
+         fields: [
+         {label: "Image", name: "image", widget: "image"},
+         {label: "Title", name: "title", widget: "text"},
+         {label: "Subtitle", name: "subtitle", widget: "text"}
+         ]}
   - name: "pages"
     label: "Pages"
     files:
@@ -24,11 +31,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Hello, name: hello, widget: string}
           - {label: Introduction, name: introduction, widget: string}
-          - {label: "Cases", name: cases, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Title", name: "title", widget: "text"},
-              {label: "Subtitle", name: "subtitle", widget: "text"}
-            ]}
+          - {label: "Cases", name: cases, widget: list,
+             fields: [
+             {label: "Image", name: "image", widget: "image"},
+             {label: "Title", name: "title", widget: "text"},
+             {label: "Subtitle", name: "subtitle", widget: "text"}
+             ]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"

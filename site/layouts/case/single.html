@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div>
+    <div>
+        <img src="{{.Params.image}}" alt="{{.Title}}"/>
+    </div>
+
+    {{ range .Params.sections }}
+    <div class="f4 mt2 b">
+        {{.title}}
+    </div>
+    <div>
+        {{.body}}
+    </div>
+    {{end}}
+
+    <div class="f4 b mt5">
+        Other Studies
+    </div>
+
+    {{ partial "2-up" .Params }}
+
+</div>
+{{ end }}

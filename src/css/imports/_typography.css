@@ -38,6 +38,16 @@ sup {
   vertical-align: super;
 }
 
+h1 { font-size: 2.25rem; }
+
+h2 { font-size: 1.5rem; }
+
+h3 { font-size: 1.25rem; }
+
+h4 { font-size: 1rem; }
+
+h5 { font-size: .875rem; }
+
 /* Measure is limited to ~66 characters */
 .measure {
   max-width: 30em;

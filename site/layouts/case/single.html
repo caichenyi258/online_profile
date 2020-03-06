@@ -5,21 +5,13 @@
         <img class="w-100" src="{{.Params.image}}" alt="{{.Title}}"/>
     </div>
 
-    {{ range .Params.sections }}
     <div class="mt2 mb4">
-        <div class="f4 b">
-            {{.title}}
-        </div>
-        <div>
-            {{.body}}
-        </div>
+        {{.Content}}
     </div>
-    {{end}}
 
     <div class="f4 b mt6">
         Other Studies
     </div>
-
     {{ partial "2-up" .Params }}
 
 </div>

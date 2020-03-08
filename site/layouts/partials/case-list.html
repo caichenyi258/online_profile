@@ -1,13 +1,15 @@
 <div class="bg-off-white">
     <div class="flex mv3 flex-wrap justify-between">
-        {{ range where .Site.Pages ".Title" "in" .Params.cases }}
-            <div class="w-45 mb5">
-                <a href="{{.Permalink}}" class="no-underline">
-                    <img src="{{.Params.image}}" alt="" class="center db mb2">
-                    <div class="f7">{{.Params.name}}</div>
-                    <div class="f6 i">{{.Params.position}}</div>
-                </a>
-            </div>
-        {{ end }}
+        {{ range $caseTitle := .Params.cases}}
+            {{ range $case := first 1 (where $.Site.Pages ".Title" $caseTitle) }}
+                <div class="w-45 mb5">
+                    <a href="{{$case.Permalink}}" class="no-underline">
+                        <img src="{{$case.Params.image}}" alt="" class="center db mb2">
+                        <div class="f7">{{$case.Params.name}}</div>
+                        <div class="f6 i">{{$case.Params.position}}</div>
+                    </a>
+                </div>
+            {{ end }}
+        {{end}}
     </div>
 </div>

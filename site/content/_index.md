@@ -23,4 +23,8 @@ cases:
     title: Space NK Branding
     subtitle: 'Branding, Market Research. Trend Analysis.'
     link: /case/space-nk
+  - image: /img/case-universal-0.jpg
+    title: the Universal Studios Service Design
+    subtitle: Service Design. Ethnographic Research.
+    link: /case/universal
 ---

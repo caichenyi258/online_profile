@@ -11,9 +11,10 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Short Name (used as ID)", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
       - {label: "Name", name: "name", widget: "string"}
       - {lable: "Position", name: "position", widget: "string"}
+      - {label: "Thumbnail (show in the list view)", name: "thumbnail", widget: "image"}
+      - {label: "Image (the big image at top of case)", name: "image", widget: "image"}
       - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Other Studies", name: cases, widget: list, field:
           {label: "Case", name: "case", widget: "relation", collection: "case",

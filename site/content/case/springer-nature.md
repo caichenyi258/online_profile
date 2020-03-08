@@ -1,8 +1,9 @@
 ---
 title: Springer Nature
-image: /img/case-springer-nature-0.png
 name: Digital Solution for Springer Nature
 position: Service Design. Digital Solution. UX design.
+thumbnail: /img/case-springer-nature-thumbnail.png
+image: /img/case-springer-nature-0.png
 cases:
   - Adult Learning
   - Samsung

@@ -1,8 +1,9 @@
 ---
 title: Universal
-image: /img/case-universal-0.jpg
 name: The Universal Studios Service Design
 position: Design Research.
+thumbnail: /img/case-universal-thumbnail.png
+image: /img/case-universal-0.jpg
 ---
 balabala
 

@@ -1,8 +1,9 @@
 ---
 title: Space NK
-image: /img/case-space-nk-0.jpg
 name: Space NK Branding
 position: Branding. Market Research. Trend Analysis.
+thumbnail: /img/case-space-nk-thumbnail.png
+image: /img/case-space-nk-0.jpg
 ---
 balabala
 

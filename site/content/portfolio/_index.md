@@ -5,7 +5,7 @@ cases:
     title: Nature.com China landing
     subtitle: Service Design. Digital Solution. UX design.
     link: /case/springer-nature
-  - image: /img/case-samsung-0.png
+  - image: /img/case-samsung-9.jpeg
     title: Samsung Pet Product Innovation
     subtitle: Design Research. Product Innovation. User testing.
     link: /case/samsung
@@ -13,4 +13,8 @@ cases:
     subtitle: Product Innovation. Market Landscape Analysis. Trend Research.
     title: Adult Digital Learning Trends
     link: /case/adult-learning
+  - image: /img/case-space-nk-0.jpg
+    title: Space NK Branding
+    subtitle: 'Branding, Market Research. Trend Analysis.'
+    link: /case/space-nk
 ---

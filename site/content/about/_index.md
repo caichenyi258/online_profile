@@ -1,7 +1,8 @@
 ---
 title: About
 avatar: /img/about-linkedin.png
-clients: []
+clients:
+  - /img/about-client-universal.png
 ---
 As an anthropologist and a writer, I explore the beliefs, behaviors, stories and journeys that shape us. I have more than ten years of experience in consumer research, global ethnography and narrative non-fiction writing. 
 

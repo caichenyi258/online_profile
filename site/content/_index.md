@@ -19,4 +19,8 @@ cases:
     title: Adult Digital Learning Trends
     link: /case/adult-learning
     subtitle: Product Innovation. Market Landscape Analysis. Trend Research.
+  - image: /img/case-space-nk-0.jpg
+    title: Space NK Branding
+    subtitle: 'Branding, Market Research. Trend Analysis.'
+    link: /case/space-nk
 ---

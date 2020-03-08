@@ -15,12 +15,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Name", name: "name", widget: "string"}
       - {lable: "Position", name: "position", widget: "string"}
       - {label: "Description", name: "body", widget: "markdown"}
-      - {label: "Other Cases", name: cases, widget: list,
+      - {label: "Other Studies", name: cases, widget: list,
          fields: [
-         {label: "Image", name: "image", widget: "image"},
-         {label: "Title", name: "title", widget: "text"},
-         {label: "Subtitle", name: "subtitle", widget: "text"},
-         {label: "Link", name: "link", widget: "text"}
+         {label: "Case", name: "case", widget: "relation", collection: "case",
+          searchFields: ["name"], valueField: "title", displayFields: ["name"]}
          ]}
   - name: "pages"
     label: "Pages"
@@ -33,10 +31,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Introduction, name: introduction, widget: string}
           - {label: "Cases", name: cases, widget: list,
              fields: [
-             {label: "Image", name: "image", widget: "image"},
-             {label: "Title", name: "title", widget: "text"},
-             {label: "Subtitle", name: "subtitle", widget: "text"},
-             {label: "Link", name: "link", widget: "text"}
+             {label: "Case", name: "case", widget: "relation", collection: "case",
+              searchFields: ["name"], valueField: "title", displayFields: ["name"]}
              ]}
       - file: "site/content/portfolio/_index.md"
         label: "Portfolio Page"

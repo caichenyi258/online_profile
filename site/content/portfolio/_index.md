@@ -9,4 +9,8 @@ cases:
     title: Samsung Pet Product Innovation
     subtitle: Design Research. Product Innovation. User testing.
     link: /case/samsung
+  - image: /img/case-adult-learning-0.jpg
+    subtitle: Product Innovation. Market Landscape Analysis. Trend Research.
+    title: Adult Digital Learning Trends
+    link: /case/adult-learning
 ---

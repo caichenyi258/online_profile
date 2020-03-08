@@ -1,6 +1,6 @@
 ---
 title: space NK
-image: /img/about-linkedin.png
+image: /img/case-space-nk-0.jpg
 ---
 Space NK Branding
 
@@ -19,8 +19,14 @@ The concept of beauty in China has evolved beyond the level of a visual percepti
 
 balabala
 
-images
+![](/img/case-space-nk-6.jpg)
+
+![](/img/case-space-nk-7.jpg)
+
+![](/img/case-space-nk-5.jpg)
+
+![](/img/case-space-nk-3.jpg)
 
 balabala
 
-images
+![](/img/case-space-nk-2.jpeg)

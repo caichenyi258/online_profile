@@ -10,9 +10,11 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/case" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Short Name (used as ID)", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Content", name: "body", widget: "markdown"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {lable: "Position", name: "position", widget: "string"}
+      - {label: "Description", name: "body", widget: "markdown"}
       - {label: "Other Cases", name: cases, widget: list,
          fields: [
          {label: "Image", name: "image", widget: "image"},

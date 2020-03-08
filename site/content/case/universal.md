@@ -1,16 +1,16 @@
 ---
-title: universal
+title: Universal
 image: /img/about-linkedin.png
+name: The Universal Studios Service Design
+position: Design Research.
 ---
-## the universal studios service design
-
 balabala
 
-## Background
+## **Background**
 
 Before landing the Universal Studios Theme park in Beijing, the world’s biggest theme park and film studio would like to do an Ad Hoc Research project covering quantitive, traditional qualitative and ethnographic methods to discover the theme park experience for Chinese market.
 
-## My role
+## **My role**
 
 My role is to lead the ethnographic research part to validate and offer thick description of the hypothesized marketing personas in support of understanding quantitative data.Also, in relation with the role of attraction of IPs, to value Universal Studios Theme park’s market proposition comparing to competitors such as Disneyland.\
 The scope ranges from full consumer journey starting from people‘s purchasing decisions making of theme park experience as a travel product, in-park experience and help TUS with its digital communication campaign and platform distribution selection. We need help define touch points and depict the needs and pain points with tools of Consumer Journey Map, Mental model and etc.

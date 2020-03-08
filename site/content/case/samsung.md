@@ -1,24 +1,24 @@
 ---
 title: Samsung
 image: /img/case-samsung-0.png
+name: Design for the new Petnership
+position: Design Research. Product Innovation. User testing.
 ---
-## Design for the new Petnership
-
 balabala
 
-## Background
+## **Background**
 
 By announcement of design for the Age of Experience, Samsung Design Center has been working on developing home products to refresh the idea of home experiences. The brand has commissioned Touch to look into the concept of ‘Petnership’ in young Chinese families, with the intent of creating new product unification of AI, IoT, and 5G technologies.
 
 In China, pet population has been kept growing in the past 6 years. Statics show that by the end of 2018 dog and cat population has arrived 180 million with an estimated market retail value over 214 billion yuan by 2020.
 
-## Challenges
+## **Challenges**
 
 Pets are gradually being seen and treated as a part of the family. Young people design their home setting and purchase home appliances while taking consideration of their pet’s needs. How to keep pets accompany is an emerging pressure of pet owners while they are thinking to become pet owners.
 
 The aim was torevealnew pet people relationship, inspired by which to create pet products and market opportunities. Based on the findings, Touch Innovation would lead Samsung in-house design team to go through rounds of ideation workshop. During the process, we would iterate product directions and features based on consumer feedback, refining proposition by focus group testing.
 
-## Research process
+## **Research process**
 
 We discovered that to the new pet owner generation, bonding is on top of all their concerns of pet owning. Pet is a family member. Their experiences and feelings are getting respected by pet owners. How could we encourage interaction between pet and their owner? How could we empower pet owners to be able to collect their pet’s feelings and behaviors in order to enhance the bonding?
 

@@ -1,11 +1,9 @@
 ---
 title: Springer Nature
 image: /img/case-springer-nature-0.png
+name: Digital Solution for Springer Nature
+position: Service Design. Digital Solution. UX design.
 ---
-## **Digital Solution for Springer Nature**
-
-*Service Design. Digital Solution. UX design.*
-
 Year 2019\
 Tools and methods: Stakeholder interview, Contextual Inquiry, User Interview, User testing\
 Client: Springer Nature\

@@ -1,0 +1,14 @@
+<div class="bg-off-white">
+    <div class="flex mv3 flex-wrap justify-between">
+        {{.Params.cases}}
+        {{ range where .Site.Pages ".Title" "intersect" .Params.cases }}
+            <div class="w-45 mb5">
+                <a href="" class="no-underline">
+                    <img src="{{.Params.image}}" alt="" class="center db mb2">
+                    <div class="f7">{{.Params.name}}</div>
+                    <div class="f6 i">{{.Params.position}}</div>
+                </a>
+            </div>
+        {{ end }}
+    </div>
+</div>

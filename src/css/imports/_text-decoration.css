@@ -3,10 +3,10 @@
 .no-underline { text-decoration: none; }
 
 
-@media (--breakpoint-not-small) {
-  .strike-ns       { text-decoration: line-through; }
-  .underline-ns    { text-decoration: underline; }
-  .no-underline-ns { text-decoration: none; }
+@media (--breakpoint-small) {
+  .strike-s       { text-decoration: line-through; }
+  .underline-s    { text-decoration: underline; }
+  .no-underline-s { text-decoration: none; }
 }
 
 @media (--breakpoint-medium) {

@@ -1,12 +1,15 @@
 html {
   font-size: var(--font-size);
+  @media (--breakpoint-small) {
+    font-size: var(--font-size-s);
+  }
   @media (--breakpoint-medium) {
     font-size: var(--font-size-m);
   }
   @media (--breakpoint-large) {
     font-size: var(--font-size-l);
   }
-  background-color: var(--black);
+  background-color: var(--white);
 }
 
 
@@ -82,25 +85,25 @@ h5 { font-size: .875rem; }
   text-overflow: ellipsis;
 }
 
-@media (--breakpoint-not-small) {
-  .measure-ns  {
+@media (--breakpoint-small) {
+  .measure-s  {
     max-width: 30em;
   }
-  .measure-wide-ns {
+  .measure-wide-s {
     max-width: 34em;
   }
-  .measure-narrow-ns {
+  .measure-narrow-s {
     max-width: 20em;
   }
-  .indent-ns {
+  .indent-s {
     text-indent: 1em;
     margin-top: 0;
     margin-bottom: 0;
   }
-  .small-caps-ns {
+  .small-caps-s {
     font-variant: small-caps;
   }
-  .truncate-ns {
+  .truncate-s {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;

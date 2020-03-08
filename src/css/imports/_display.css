@@ -19,20 +19,20 @@
   width: 100%;
 }
 
-@media (--breakpoint-not-small) {
-  .dn-ns {              display: none; }
-  .di-ns {              display: inline; }
-  .db-ns {              display: block; }
-  .dib-ns {             display: inline-block; }
-  .dit-ns {             display: inline-table; }
-  .dt-ns {              display: table; }
-  .dtc-ns {             display: table-cell; }
-  .dt-row-ns {          display: table-row; }
-  .dt-row-group-ns {    display: table-row-group; }
-  .dt-column-ns {       display: table-column; }
-  .dt-column-group-ns { display: table-column-group; }
+@media (--breakpoint-small) {
+  .dn-s {              display: none; }
+  .di-s {              display: inline; }
+  .db-s {              display: block; }
+  .dib-s {             display: inline-block; }
+  .dit-s {             display: inline-table; }
+  .dt-s {              display: table; }
+  .dtc-s {             display: table-cell; }
+  .dt-row-s {          display: table-row; }
+  .dt-row-group-s {    display: table-row-group; }
+  .dt-column-s {       display: table-column; }
+  .dt-column-group-s { display: table-column-group; }
 
-  .dt--fixed-ns {
+  .dt--fixed-s {
     table-layout: fixed;
     width: 100%;
   }

@@ -8,11 +8,11 @@
 .cb { clear: both; }
 .cn { clear: none; }
 
-@media (--breakpoint-not-small) {
-  .cl-ns { clear: left; }
-  .cr-ns { clear: right; }
-  .cb-ns { clear: both; }
-  .cn-ns { clear: none; }
+@media (--breakpoint-small) {
+  .cl-s { clear: left; }
+  .cr-s { clear: right; }
+  .cb-s { clear: both; }
+  .cn-s { clear: none; }
 }
 
 @media (--breakpoint-medium) {

@@ -2,10 +2,10 @@
 .tr  { text-align: right; }
 .tc  { text-align: center; }
 
-@media (--breakpoint-not-small) {
-  .tl-ns  { text-align: left; }
-  .tr-ns  { text-align: right; }
-  .tc-ns  { text-align: center; }
+@media (--breakpoint-small) {
+  .tl-s  { text-align: left; }
+  .tr-s  { text-align: right; }
+  .tc-s  { text-align: center; }
 }
 
 @media (--breakpoint-medium) {

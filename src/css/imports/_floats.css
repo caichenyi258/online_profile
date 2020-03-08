@@ -2,10 +2,10 @@
 .fr { float: right; _display: inline; }
 .fn { float: none; }
 
-@media (--breakpoint-not-small) {
-  .fl-ns { float: left; _display: inline; }
-  .fr-ns { float: right; _display: inline; }
-  .fn-ns { float: none; }
+@media (--breakpoint-small) {
+  .fl-s { float: left; _display: inline; }
+  .fr-s { float: right; _display: inline; }
+  .fn-s { float: none; }
 }
 
 @media (--breakpoint-medium) {

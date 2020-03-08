@@ -2,10 +2,10 @@
 .outline-transparent { outline: 1px solid transparent; }
 .outline-0 { outline: 0; }
 
-@media (--breakpoint-not-small) {
-  .outline-ns { outline: 1px solid; }
-  .outline-transparent-ns { outline: 1px solid transparent; }
-  .outline-0-ns { outline: 0; }
+@media (--breakpoint-small) {
+  .outline-s { outline: 1px solid; }
+  .outline-transparent-s { outline: 1px solid transparent; }
+  .outline-0-s { outline: 0; }
 }
 
 @media (--breakpoint-medium) {

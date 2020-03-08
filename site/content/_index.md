@@ -8,4 +8,8 @@ introduction: >-
   service design.
 cases:
   - Springer Nature
+  - Samsung
+  - Adult Learning
+  - Space NK
+  - Universal
 ---

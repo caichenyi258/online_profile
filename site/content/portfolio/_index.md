@@ -1,4 +1,9 @@
 ---
 title: Portfolio
-cases: []
+cases:
+  - Springer Nature
+  - Samsung
+  - Adult Learning
+  - Space NK
+  - Universal
 ---

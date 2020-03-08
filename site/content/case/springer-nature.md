@@ -5,6 +5,9 @@ name: Digital Solution for Springer Nature
 position: Service Design. Digital Solution. UX design.
 cases:
   - Adult Learning
+  - Samsung
+  - Space NK
+  - Universal
 ---
 Year 2019\
 Tools and methods: Stakeholder interview, Contextual Inquiry, User Interview, User testing\

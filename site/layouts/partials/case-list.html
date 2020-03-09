@@ -2,7 +2,7 @@
     <div class="flex mv3 flex-wrap justify-between">
         {{ range $caseTitle := .Params.cases}}
             {{ range $case := first 1 (where $.Site.Pages ".Title" $caseTitle) }}
-                <div class="w-45 w-100-s mb5 mb3-s">
+                <div class="w-45 w-100-s mb5 mb4-s">
                     <a href="{{$case.Permalink}}" class="no-underline">
                         <img class="w-100" src="{{$case.Params.thumbnail}}" alt="" class="center db mb2">
                         <div class="f7">{{$case.Params.name}}</div>

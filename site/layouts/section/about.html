@@ -2,11 +2,11 @@
 
 <div>
 <div class="flex flex-wrap justify-between">
-    <div class="w-40">
+    <div class="w-40 w-100-s">
     <img class="br-100 w-100" src="{{ .Params.avatar }}" alt="">
     </div>
 
-    <div class="w-55">
+    <div class="w-55 w-100-s">
         {{ .Content }}
         <div class="flex items-center">
             <img class="br-100 w2 h2 mr3" src="/img/about-linkedin.png" alt="">
@@ -14,7 +14,7 @@
         </div>
     </div>
 </div>
-    <div class="mt7 mb7">
+    <div class="mt7 mt5-s mb7 mb3-s">
         <div style="text-align: center" class="mb5">Selected clients</div>
         <div class="flex flex-wrap justify-around">
             {{ range .Params.clients }}

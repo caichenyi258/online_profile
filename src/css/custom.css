@@ -1,3 +1,9 @@
 body {
     color: #4A4A4A;
+    background-color: #F0F0F0;
+}
+
+.main-container {
+    max-width: 1440px;
+    background-color: #FFF;
 }

@@ -2,6 +2,7 @@
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
   <body>
+  <div class="main-container center">
   <div class="pa5 pa3-s">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
@@ -11,7 +12,7 @@
   </div>
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
+  </div>
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>

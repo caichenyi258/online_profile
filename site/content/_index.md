@@ -2,10 +2,10 @@
 title: Home
 hello: 'Hello, '
 introduction: >-
-  my name is Emily. I am a design researcher academically trained in design
-  anthropology and commence, with 6 years experiences of running and leading
-  research projects in the aspects of brand strategy, product innovation and
-  service design.
+  my name is Emily. I am a design researcher with 6 years of experiences running
+  and leading research projects in the aspects of brand strategy, product
+  innovation and service design. I am academically trained in design
+  anthropology and commence. Here are a few of my recent projects.
 cases:
   - Springer Nature
   - Samsung

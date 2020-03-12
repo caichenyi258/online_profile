@@ -1,0 +1,30 @@
+body {
+    font-family: Nunito Sans,-apple-system,BlinkMacSystemFont,"avenir next",avenir,helvetica,"helvetica neue",ubuntu,roboto,noto,"segoe ui",arial,sans-serif;
+    color: #4A4A4A;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+    html {
+        font-size: 8px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    html {
+        font-size: 9px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    html {
+        font-size: 10px;
+    }
+}

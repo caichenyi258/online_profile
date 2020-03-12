@@ -48,7 +48,7 @@ table {
 }
 
 input, textarea {
-	font-size: var(--spacing-medium);
+	font-size: 1rem;
 	border: none;
 	font-family: inherit;
 	border: 0;
@@ -64,4 +64,34 @@ button {
 
 a {
 	color: inherit;
+}
+
+html,
+body,
+div,
+article,
+section,
+main,
+footer,
+header,
+form,
+fieldset,
+pre,
+code,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+textarea,
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="tel"],
+input[type="text"],
+input[type="url"],
+.border-box {
+	box-sizing: border-box;
 }

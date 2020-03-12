@@ -1,21 +1,57 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
-  {{ partial "head" . }}
-  <body>
-  <div class="main-container center">
-  <div class="pa5 pa3-s">
-
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
-    {{ block "main" . }}{{ end }}
-
-  </div>
-
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-  </div>
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
+<head>
+    <title>{{ .Title }} | {{ $.Site.Title }}</title>
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
     {{ end }}
-  </body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="page-wrapper">
+    <div class="main-container">
+
+        <!--header-->
+        <div class="header">
+            <div class="name">
+                {{ if ne .Section "about" }}
+                Emily Cai
+                {{ end }}
+            </div>
+            <ul class="menu">
+                <li class="item"><a href="/">Home</a></li>
+                <li class="item"><a href="/portfolio">Portfolio</a></li>
+                <li class="item"><a href="/about">About</a></li>
+            </ul>
+        </div>
+
+        <!--main-->
+        {{ block "main" . }}{{ end }}
+
+    </div>
+
+    <!--footer-->
+    {{ if ne .Section "about" }}
+    <footer class="footer">
+        <a href="linkedin" class="linkedin" alt="linkedin" title="linkedin">
+            <img src="/img/footer-linkedin.png"/>
+        </a>
+        <a href="mailto: caichenyi@gmail.com" class="email">
+            caichenyi@gmail.com
+        </a>
+    </footer>
+    {{ end }}
+</div>
+{{ $app := .Site.Data.webpack.app }}
+{{ with $app.js }}
+<script src="{{ relURL . }}"></script>
+{{end}}
+
+{{ $script := .Site.Data.webpack.main }}
+{{ with $script.js }}
+<script src="{{ relURL . }}"></script>
+{{ end }}
+</body>
 </html>

@@ -1,0 +1,64 @@
+body {
+  background-color: #F0F0F0;
+}
+
+.page-wrapper {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+
+  .main-container {
+    padding: 10rem 18rem 0;
+
+    .header {
+      margin-bottom: 8rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      .name {
+        line-height: 1.2;
+        font-style: italic;
+        font-size: 3rem;
+      }
+
+      .menu {
+        display: flex;
+        .item {
+          &:not(:last-child) {
+            margin-right: 3.5rem;
+          }
+
+          a {
+            font-size: 2.2rem;
+          }
+        }
+      }
+    }
+
+  }
+
+  .footer {
+    padding: 4.4rem 18rem;
+    background-color: #2D7BD3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .linkedin {
+      height: 5.2rem;
+      width: 5.5rem;
+
+      img {
+        height: 5.2rem;
+        width: 5.5rem;
+      }
+    }
+
+    .email {
+      font-size: 2.6rem;
+      color: #FFF;
+    }
+  }
+}

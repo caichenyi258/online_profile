@@ -1,6 +1,6 @@
-// JS Goes here - ES6 supported
-
 import "./css/main.css";
+import $ from "jquery";
 
-// Say hello
-console.log("Hello! Edit me in src/index.js");
+$(() => {
+  $(".case-page p:has( > img)").addClass("has-img");
+});

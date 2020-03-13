@@ -6,6 +6,11 @@
     {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
     {{ end }}
+
+    {{ $script := .Site.Data.webpack.main }}
+    {{ with $script.js }}
+    <script src="{{ relURL . }}"></script>
+    {{ end }}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -44,14 +49,5 @@
     </footer>
     {{ end }}
 </div>
-{{ $app := .Site.Data.webpack.app }}
-{{ with $app.js }}
-<script src="{{ relURL . }}"></script>
-{{end}}
-
-{{ $script := .Site.Data.webpack.main }}
-{{ with $script.js }}
-<script src="{{ relURL . }}"></script>
-{{ end }}
 </body>
 </html>

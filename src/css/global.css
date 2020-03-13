@@ -15,17 +15,23 @@ img {
 
 @media (--moblie) {
     html {
-        font-size: 8px;
+        font-size: 5px;
     }
 }
 
 @media (--tablet) {
     html {
+        font-size: 8px;
+    }
+}
+
+@media (--small-pc) {
+    html {
         font-size: 9px;
     }
 }
 
-@media (--laptop) {
+@media (--pc) {
     html {
         font-size: 10px;
     }

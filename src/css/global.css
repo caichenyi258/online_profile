@@ -13,19 +13,19 @@ img {
     max-width: 100%;
 }
 
-@media screen and (max-width: 480px) {
+@media (--moblie) {
     html {
         font-size: 8px;
     }
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px) {
+@media (--tablet) {
     html {
         font-size: 9px;
     }
 }
 
-@media screen and (min-width: 769px) {
+@media (--laptop) {
     html {
         font-size: 10px;
     }

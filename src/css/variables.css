@@ -1,0 +1,5 @@
+@custom-media --moblie screen and (max-width: 425px);
+
+@custom-media --tablet screen and (min-width: 426px) and (max-width: 768px);
+
+@custom-media --laptop screen and (min-width: 769px);

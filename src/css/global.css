@@ -1,6 +1,8 @@
 body {
     font-family: "Avenir Next", arial, sans-serif;
     color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 a {

@@ -4,4 +4,6 @@
 
 @import './baseof.less';
 @import './index.less';
+@import './portfolio.less';
+@import './case.less';
 @import './case-list.less';

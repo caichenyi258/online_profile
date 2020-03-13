@@ -1,12 +1,11 @@
 ---
 title: Universal
-name: The Universal Studios Service Design
-position: Design Research.
 thumbnail: /img/case-universal-thumbnail.png
 image: /img/case-universal-0.jpg
+name: The Universal Studios Service Design
+position: Design Research.
+properties: ""
 ---
-balabala
-
 ## **Background**
 
 Before landing the Universal Studios Theme park in Beijing, the world’s biggest theme park and film studio would like to do an Ad Hoc Research project covering quantitive, traditional qualitative and ethnographic methods to discover the theme park experience for Chinese market.

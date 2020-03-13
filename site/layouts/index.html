@@ -1,8 +1,11 @@
 {{ define "main" }}
 
-<div class="hello"><span class="big">{{.Params.hello}}</span><span class="normal">{{.Params.introduction}}</span></div>
+<div class="home-page">
+    <div class="hello"><span class="big">{{.Params.hello}}</span><span class="normal">{{.Params.introduction}}</span>
+    </div>
 
-<div class="cases">
-{{ partial "case-list" . }}
+    <div class="cases">
+        {{ partial "case-list" . }}
+    </div>
 </div>
 {{ end }}

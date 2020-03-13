@@ -1,18 +1,17 @@
 {{ define "main" }}
 
-<div>
-    <div>
-        <img class="w-100" src="{{.Params.image}}" alt="{{.Title}}"/>
-    </div>
+<div class="case-page">
+    <img class="main-image" src="{{.Params.image}}" alt="{{.Title}}"/>
 
-    <div class="mt2 mb6 mb5-s">
-        <h2 class="b">{{.Params.name}}</h2>
-        <p class="i">{{.Params.position}}</p>
+    <div class="details">
+        <div class="name">{{.Params.name}}</div>
+        <div class="position">{{.Params.position}}</div>
+        <div class="properties">{{.Params.properties}}</div>
         {{.Content}}
     </div>
 
-    <div class="f4 b">
-        Other studies
+    <div class="">
+        Other stories
     </div>
     {{ partial "case-list" . }}
 </div>

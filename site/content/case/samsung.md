@@ -4,7 +4,6 @@ thumbnail: /img/case-samsung-thumbnail.png
 image: /img/case-samsung-0.png
 name: Design for the new Petnership
 position: Design Research. Product Innovation. User testing.
-properties: ""
 cases:
   - Adult Learning
   - Springer Nature

@@ -6,11 +6,89 @@
     width: 100%;
   }
 
+  .details {
+    margin-top: 8rem;
+    padding-right: 8rem;
 
-  h1,h2,h3,h4,h5,h6 {
-    font-weight: bold;
-    font-size: 3.2rem;
-    line-height: 1.375;
+    .name {
+      font-size: 3.6rem;
+      font-weight: 600;
+      line-height: 1.36;
+    }
+
+    .position {
+      font-size: 2.4rem;
+      font-style: italic;
+      line-height: 1.375;
+    }
+
+    .description {
+      p {
+        padding-bottom: 1.4rem;
+        font-size: 2.2rem;
+        line-height: 1.36;
+        text-align: justify;
+
+        br {
+          display: block;
+          content: " ";
+          height: 1rem;
+        }
+      }
+
+      & > p:first-child {
+        padding: 2.4rem 0 3rem;
+        font-size: 2.1rem;
+        line-height: 1.38;
+
+        br {
+          height: 0.4rem;
+        }
+      }
+
+      strong {
+        font-weight: 600;
+      }
+
+      h1, h2, h3, h4, h5, h6 {
+        padding: 1rem 0;
+        font-size: 3.2rem;
+        line-height: 1.375;
+      }
+    }
+
   }
 
+  .other-stories {
+    margin-top: 8.6rem;
+    padding-right: 32rem;
+    .title {
+      font-size: 3.6rem;
+      font-weight: 600;
+      line-height: 1.36;
+      margin-bottom: 3.6rem;
+    }
+
+    .case-list {
+      margin-bottom: -3.6rem;
+      .case-wrapper {
+        margin-bottom: 3.6rem;
+
+        &:nth-child(odd) {
+          padding-right: 2rem;
+        }
+
+        &:nth-child(even) {
+          padding-left: 2rem;
+        }
+
+        .case {
+          .position {
+            font-size: 1.6rem;
+            line-height: 1.375;
+          }
+        }
+      }
+    }
+  }
 }

@@ -4,7 +4,6 @@ thumbnail: /img/case-adult-learning-thumbnail.png
 image: /img/case-adult-learning-0.jpg
 name: Adult Digital Learning Trends
 position: Product Innovation. Market Landscape Analysis.
-properties: ""
 ---
 balabalabala
 

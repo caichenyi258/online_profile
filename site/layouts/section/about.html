@@ -1,24 +1,21 @@
 {{ define "main" }}
 
-<div>
-<div class="flex flex-wrap justify-between">
-    <div class="w-40 w-100-s">
-    <img class="br-100 w-100" src="{{ .Params.avatar }}" alt="">
-    </div>
-
-    <div class="w-55 w-100-s">
-        {{ .Content }}
-        <div class="flex items-center">
-            <img class="br-100 w2 h2 mr3" src="/img/about-linkedin.png" alt="">
-            <a class="no-underline blue" href="mailto: caichenyi@gmail.com">caichenyi@gmail.com</a>
+<div class="about-page">
+    <div class="profile">
+        <div class="avatar">
+            <img src="{{ .Params.avatar }}" alt="">
         </div>
+
+        <div class="introduction">
+            {{ .Content }}
+        </div>
+
     </div>
-</div>
-    <div class="mt7 mt5-s mb7 mb3-s">
-        <div style="text-align: center" class="mb5">Selected clients</div>
-        <div class="flex flex-wrap justify-around">
+    <div class="clients">
+        <div class="title">Selected clients</div>
+        <div class="clients-container">
             {{ range .Params.clients }}
-            <div class="w-20 mb4 mh3">
+            <div class="client">
                 <img src="{{.logo}}" alt="{{.name}}" title="{{.name}}">
             </div>
             {{ end }}

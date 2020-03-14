@@ -38,16 +38,18 @@
     </div>
 
     <!--footer-->
-    {{ if ne .Section "about" }}
     <footer class="footer">
+        {{ if eq .Section "about" }}
+        <div class="copyright">copyright@ <i>2020 emilystories.com</i></div>
+        {{else}}
         <a href="linkedin" class="linkedin" alt="linkedin" title="linkedin">
             <img src="/img/footer-linkedin.png"/>
         </a>
         <a href="mailto: caichenyi@gmail.com" class="email">
             caichenyi@gmail.com
         </a>
+        {{end}}
     </footer>
-    {{ end }}
 </div>
 </body>
 </html>

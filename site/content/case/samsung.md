@@ -3,7 +3,7 @@ title: Samsung
 thumbnail: /img/case-samsung-thumbnail.png
 image: /img/case-samsung-0.png
 name: Design for the new Petnership
-position: Design Research. Product Innovation.
+position: Design Research. Product Innovation. User testing.
 cases:
   - Adult Learning
   - Springer Nature

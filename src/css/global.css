@@ -1,0 +1,38 @@
+body {
+    font-family: "Avenir Next", arial, sans-serif;
+    color: #4A4A4A;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+@media (--moblie) {
+    html {
+        font-size: 10px;
+    }
+}
+
+@media (--tablet) {
+    html {
+        font-size: 8px;
+    }
+}
+
+@media (--small-pc) {
+    html {
+        font-size: 9px;
+    }
+}
+
+@media (--pc) {
+    html {
+        font-size: 10px;
+    }
+}

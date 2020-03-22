@@ -1,0 +1,13 @@
+<div class="case-list">
+    {{ range $caseTitle := .Params.cases}}
+    {{ range $case := first 1 (where $.Site.Pages ".Title" $caseTitle) }}
+    <div class="case-wrapper">
+        <a class="case" href="{{$case.Permalink}}">
+            <img src="{{$case.Params.thumbnail}}" alt="{{$case.Params.name}}" title="{{$case.Params.name}}">
+            <div class="name">{{$case.Params.name}}</div>
+            <div class="position">{{$case.Params.position}}</div>
+        </a>
+    </div>
+    {{ end }}
+    {{end}}
+</div>

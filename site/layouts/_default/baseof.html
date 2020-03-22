@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+<head>
+    <title>{{ .Title }} | {{ $.Site.Title }}</title>
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
+
+    {{ $script := .Site.Data.webpack.main }}
+    {{ with $script.js }}
+    <script src="{{ relURL . }}"></script>
+    {{ end }}
+    <meta charset="utf-8">
+    <link rel="icon" type="image/ico" href="/img/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="container">
+    <div class="main">
+
+        <!--header-->
+        <div class="header">
+            <div class="logo-wrapper">
+                <div class="logo">
+                    <img src="/img/logo.png"/>
+                </div>
+            </div>
+            <ul class="menu">
+                <il class="item linkedin">
+                    <a href="https://www.linkedin.com/in/chenyi-cai/">
+                        <img src="/img/header-linkedin.png"/>
+                    </a>
+                </il>
+                <li class="item home"><a href="/">Home</a></li>
+                <li class="item portfolio"><a href="/portfolio">Portfolio</a></li>
+                <li class="item about"><a href="/about">About</a></li>
+            </ul>
+        </div>
+
+        <!--main-->
+        {{ block "main" . }}{{ end }}
+
+    </div>
+
+    <!--footer-->
+    <footer class="footer">
+        <div class="up">
+            <div class="get-in-touch">
+                Get in touch.
+            </div>
+            <a href="mailto:caichenyi@gmail.com">
+                <div class="contact-me">
+                    Contact me >
+                </div>
+            </a>
+        </div>
+        <div class="down">
+            <div class="copyright">
+                All rights reserved. © <strong>2020 Emilystories.com</strong>
+            </div>
+            <div class="record">
+                沪ICP备20006105号
+            </div>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

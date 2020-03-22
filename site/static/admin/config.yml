@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "/img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "case" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Case" # Used in the UI, ie.: "New Post"
+    folder: "site/content/case" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Short Name (used as ID)", name: "title", widget: "string"}
+      - {label: "Thumbnail (show in the list view)", name: "thumbnail", widget: "image"}
+      - {label: "Banner (the big image at top of case)", name: "banner", widget: "image"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Description", name: "body", widget: "markdown"}
+      - {label: "Other Stories", name: cases, widget: list, field:
+          {label: "Case", name: "case", widget: "relation", collection: "case",
+          searchFields: ["name"], valueField: "title", displayFields: ["name"]}
+        }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: "Banner", name: "banner", widget: "image"}
+          - {label: "Stories", name: cases, widget: list, field:
+              {label: "Case", name: "case", widget: "relation", collection: "case",
+              searchFields: ["name"], valueField: "title", displayFields: ["name"]}
+            }
+      - file: "site/content/portfolio/_index.md"
+        label: "Portfolio Page"
+        name: "protfolio"
+        fields:
+          - {label: "Stories", name: cases, widget: list, field:
+              {label: "Case", name: "case", widget: "relation", collection: "case",
+              searchFields: ["name"], valueField: "title", displayFields: ["name"]}
+            }
+      - file: "site/content/about/_index.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: Avatar, name: avatar, widget: image}
+          - {label: Clients, name: clients, widget: image}

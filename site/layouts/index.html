@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="home-page">
+    <div class="banner">
+        <img src="{{.Params.banner}}"/>
+    </div>
+
+    <div class="content">
+        <div class="hello">
+            <span class="big">Hello, </span>
+            <span class="normal">my name is Emily. I am a design researcher with 6 years experiences of running and leading research projects in the aspects of brand strategy, product innovation and service design.</span>
+        </div>
+
+        <a href="/about">
+            <div class="see-more">
+                See more >
+            </div>
+        </a>
+
+        <div class="my-work">
+            My work
+        </div>
+
+        <div class="cases">
+            {{ partial "case-list" . }}
+        </div>
+    </div>
+</div>
+{{ end }}

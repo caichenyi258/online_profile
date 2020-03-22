@@ -1,0 +1,10 @@
+@import './reset.css';
+@import './variables.css';
+@import './global.css';
+
+@import './baseof.less';
+@import './index.less';
+@import './portfolio.less';
+@import './case.less';
+@import './about.less';
+@import './case-list.less';

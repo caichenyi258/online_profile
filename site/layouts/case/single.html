@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="case-page">
+    <img class="banner" src="{{.Params.banner}}" alt="{{.Title}}"/>
+
+    <div class="details">
+        <div class="name">{{.Params.name}}</div>
+        <div class="position">{{.Params.position}}</div>
+        <div class="description">{{.Content}}</div>
+    </div>
+
+    <div class="other-stories">
+        <div class="title">Other stories</div>
+        {{ partial "case-list" . }}
+    </div>
+</div>
+{{ end }}

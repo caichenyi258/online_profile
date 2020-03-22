@@ -1,0 +1,61 @@
+.case-list {
+  font-family: "Avenir Next", arial, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -8rem;
+
+  .case-wrapper {
+    width: 50%;
+    margin-bottom: 8rem;
+
+    &:nth-child(odd) {
+      padding-right: 2.7777%;
+    }
+
+    &:nth-child(even) {
+      padding-left: 2.7777%;
+    }
+
+    .case {
+      img {
+        width: 100%;
+      }
+
+      .name {
+        margin-top: 1rem;
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+      }
+
+      .position {
+        font-size: 2rem;
+        line-height: 2.7rem;
+        font-style: italic;
+      }
+    }
+  }
+}
+
+@media (--moblie) {
+  .case-list {
+    margin-bottom: -4rem;
+    .case-wrapper {
+      width: 100%;
+      margin-bottom: 4rem;
+      padding: 0 !important;
+
+      .case {
+        .name {
+          margin-top: 0;
+          font-size: 1.4rem;
+          line-height: 1.9rem;
+        }
+
+        .position {
+          font-size: 1.6rem;
+          line-height: 2.2rem;
+        }
+      }
+    }
+  }
+}

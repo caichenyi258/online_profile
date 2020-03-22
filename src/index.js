@@ -24,12 +24,12 @@ $(() => {
     }
     // deal with the logo
     $(".container .main .header .logo").click((e) => {
-        if ($("html").scrollTop()) {
-            $("body,html").animate({
+        if ($("html").scrollTop() === 0) {
+            window.location.href = "/";
+        } else {
+            $("html").animate({
                 scrollTop: 0
             }, 500);
-        } else {
-            window.location.href = "/";
         }
 
         return false;

@@ -1,0 +1,3 @@
+before_install:
+- openssl aes-256-cbc -K $encrypted_23612fa0fe2e_key -iv $encrypted_23612fa0fe2e_iv
+  -in travis_rsa.enc -out travis_rsa -d

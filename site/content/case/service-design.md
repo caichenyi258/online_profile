@@ -27,7 +27,7 @@ Chr. Hansen is a global bioscience company based in Hørsholm, Denmark that deve
 
 ![](/img/case-hansen-1.png)
 
-![](/img/case-hansen-2.png)
+![](/img/case-hansen-2.jpg)
 
 ![1](/img/case-hansen-3.jpg)
 

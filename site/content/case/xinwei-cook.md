@@ -1,7 +1,7 @@
 ---
 title: Xinwei Cook Product Design
-thumbnail: /img/case-xinwencook-thumbnail.jpg
-banner: /img/case-xinwencook-banner.jpg
+thumbnail: /img/case-xinweicook-thumbnail.jpg
+banner: /img/case-xinweicook-banner.jpg
 name: Xinwei Cook Product Design
 position: Product research. User Test.
 cases:
@@ -33,22 +33,10 @@ Align with market team, food suppliers, product team and design team to demonstr
 
 ![3](/img/case-xinweicook-2.jpg)
 
-![1](/img/case-xinweicook-5.PNG)
+![](/img/case-xinweicook-13.jpg)
 
-![2](/img/case-xinweicook-4.PNG)
+![](/img/case-xinweicook-14.jpg)
 
-![1](/img/case-xinweicook-6.PNG)
+![1](/img/case-xinweicook-15.jpg)
 
-![2](/img/case-xinweicook-7.PNG)
-
-![3](/img/case-xinweicook-8.PNG)
-
-![4](/img/case-xinweicook-7.PNG)
-
-![1](/img/case-xinweicook-0.png)
-
-![2](/img/case-xinweicook-9.png)
-
-![3](/img/case-xinweicook-12.png)
-
-![4](/img/case-xinweicook-10.png)
+![2](/img/case-xinweicook-16.jpg)

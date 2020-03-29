@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd /opt/website
+#cd /opt/website
 
-git pull --rebase
+/usr/bin/git --git-dir=/opt/website/.git --work-tree=/opt/website  pull --rebase
 
-npm run build
+/usr/bin/npm run build
 
-rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /opt/travis_rsa" --progress /opt/website/dist/ root@47.101.163.89:/opt/website2/public/ --delete
+/usr/bin/rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /opt/travis_rsa" --progress /opt/website/dist/ root@47.101.163.89:/opt/website2/public/ --delete

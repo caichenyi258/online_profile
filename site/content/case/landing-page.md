@@ -29,5 +29,3 @@ The design team has made two different protocols with two slightly different dir
 ![](/img/case-eflanding-1.png)
 
 ![1](/img/case-eflanding-3.jpg)
-
-![2](/img/case-eflanding-4.png)

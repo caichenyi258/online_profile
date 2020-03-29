@@ -35,12 +35,12 @@ The research project aims to get in touch and build a connection with Nature’s
 
 ![1](/img/case-springer-nature-1.JPG)
 
-![2](/img/case-springer-nature-2.png)
+![2](/img/case-springer-nature-2.jpg)
 
 On-site interviews with respondents are conducted in the campus and in the office as reference to get a bigger picture of Chinese academic administrators’working culture and working environment. Nature brand value, service benefits and brand visuals are showed as stimulus during interviews. 
 
-![1](/img/case-springer-nature-3.png)
+![1](/img/case-springer-nature-3.jpg)
 
-![2](/img/case-springer-nature-4.png)
+![2](/img/case-springer-nature-4.jpg)
 
 Also, respondents were invited to view, compare and give feedbacks on both Chinese contents and English contents on the website and WeChat account.

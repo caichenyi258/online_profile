@@ -30,33 +30,21 @@ The scope ranges from full consumer journey starting from people‘s purchasing 
 
 The ethnography research part involves a combination of methods including in-home visit, in-park shadowing, video ethnography and user diary in order to capture the current experiences of trip planning, in-park play pattern and post-park experiences for different personas.
 
-![](/img/case-universal-3.png)
+![](/img/case-universal-3.jpg)
 
 \
 Based on our hypothesis of 6 personas based on mental models, 20 users with a spectrum of experience level were introduced to diary studies and more than 10 consumers are chosen for in-park shadowing across fieldworks in Shanghai, Chang zhou, Osaka and Singapore. In order to recruit the best fit for the personas, each profile screener is designed with follow up questions to be confirmed by phone calls.
 
-![1](/img/case-universal-6.png)
-
-![2](/img/case-universal-8.png)
+![](/img/case-universal-8.jpg)
 
 Four research stages equipped with different methods are applied to offer data from different granularity covering aspects of behaviours, habitus and emotions. After each stage, we were able to produce and update client with datas in various forms.
 
-![1](/img/case-universal-10.jpg)
-
-![2](/img/case-universal-11.jpg)
-
-![1](/img/case-universal-9.jpg)
-
-![2](/img/case-universal-12.jpg)
+![](/img/case-universal-13.jpg)
 
 These data were able to inspire design at touch points such as Arrival, Ticketing, Queueing, Food & Beverage selection, Merchandising, Navigation and all the digital interactions throughout the journey.
 
-![1](/img/case-universal-1.jpg)
-
-![2](/img/case-universal-4.png)
-
-![3](/img/case-universal-2.jpg)
+![](/img/case-universal-14.jpg)
 
 The final report covers video clips to illustrate the current experience and the social and cultural themes to understand the trend of theme park travel in China market.
 
-![](/img/case-universal-5.png)
+![](/img/case-universal-5.jpg)

@@ -32,9 +32,9 @@ China is the biggest market of EF on-site learning. However, the existing teachi
 
 The project starts withstakeholder interviewswith two purposes 1) being clear on the business goals with selecting the right key performance indicators (KPIs) to measure the success of project 2) allocating the resources for the project.
 
-![1](/img/case-efbeginner-9.png)
+![1](/img/case-efbeginner-7.jpg)
 
-![2](/img/case-efbeginner-7.png)
+![2](/img/case-efbeginner-9.jpg)
 
 The product optimization‘s KPI is to improve the satisfactory score and lower the refund rate of current beginner students by redesigning the online learning materials. The qualitative research objects to provide context to BI data and quantitive research to validate the problems and demonstrate correlations. Based on our research, we enhanced our product on the level of academic and user experience.
 
@@ -42,17 +42,13 @@ At the planning phase, we’ve donecontextual inquiryto walk into the school, to
 
 ![1](/img/case-efbeginner-3.jpg)
 
-![2](/img/case-efbeginner-4.JPG)
-
-![3](/img/case-efbeginner-5.JPG)
-
 This study is designed with two phrases, qualitatively to discover the context, build up personas and quantitatively to validate findings on a bigger scale and thus to prioritize possible solutions. The team is composed of user researchers, academic practitioners and digital product designers.
 
 For recruitment, we’ve gone through the refunded student profiles analysis based on usage data to identify the most relevant sample user profiles in the groups of dropped out accounts and frozen accounts.
 
-![1](/img/case-efbeginner-6.png)
+![1](/img/case-efbeginner-6.jpg)
 
-![2](/img/case-efbeginner-8.png)
+![2](/img/case-efbeginner-8.jpg)
 
 30 in-depth interviews are conducted in Tier1-2 cities in China to investigate their learning frustrations and alternative learning materials. Based on that, we were able to produce the beginner profile to communicate easily inside the teams.
 
@@ -60,8 +56,8 @@ For recruitment, we’ve gone through the refunded student profiles analysis bas
 
 Together with content design team and product design team, ideation workshops are held to transform qualitative findings into survey to validate problems and possible solutions.
 
-![1](/img/case-efbeginner-2.JPG)
+![1](/img/case-efbeginner-2.jpg)
 
-![2](/img/case-efbeginner-1.JPG)
+![2](/img/case-efbeginner-11.jpg)
 
 Based on findings of the small data, we’ve launched both surverys for students and service staff. 2700 valid responses are collected by student survey to be further analyzed. And this piece of research supported multiple product teams to come up with new product design. They were tested and validated before launch in school by various measurements. The research findings were archived on the Confluence throughout the process.

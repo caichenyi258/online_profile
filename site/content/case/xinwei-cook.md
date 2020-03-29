@@ -27,16 +27,16 @@ To design recipes and run events to user test the recipes based on metrics such 
 
 Align with market team, food suppliers, product team and design team to demonstrate the recipes in a visually friendly way on all digital platforms. Conduct user research to reflect on content strategy on social networks and select local opinion leaders to be Xinwei’s brand ambassador.
 
-![1](/img/case-xinweicook-3.jpg)
+<img src="/img/case-xinweicook-3.jpg" style="width:45rem;height:30rem" index="1" />
 
-![2](/img/case-xinweicook-1.jpg)
+<img src="/img/case-xinweicook-1.jpg" style="width:45rem;height:30rem" index="2" />
 
-![3](/img/case-xinweicook-2.jpg)
+<img src="/img/case-xinweicook-2.jpg" style="width:45rem;height:30rem" index="3" />
 
-![](/img/case-xinweicook-13.jpg)
+<img src="/img/case-xinweicook-13.jpg" style="width:45rem;height:30rem" index="" />
 
-![](/img/case-xinweicook-14.jpg)
+<img src="/img/case-xinweicook-14.jpg" style="width:45rem;height:30rem" index="" />
 
-![1](/img/case-xinweicook-15.jpg)
+<img src="/img/case-xinweicook-15.jpg" style="width:45rem;height:30rem" index="1" />
 
-![2](/img/case-xinweicook-16.jpg)
+<img src="/img/case-xinweicook-16.jpg" style="width:45rem;height:30rem" index="2" />

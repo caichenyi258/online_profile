@@ -29,12 +29,12 @@ The concept of beauty in China has evolved beyond the level of a visual percepti
 
 Based on the beauty trend discovered at the preliminary stage, we’ve identified 3 types of competitive distributors in the China market for space NK with their signature product attribution and codes in the market. By mapping out the competitors, we have chosen 3 groups of competitor power users. We shop along with them in the current Space NK retails and their loyal beauty platforms following with a 3-hour in-depth interview. 
 
-![](/img/case-space-nk-8.jpg)
+<img src="/img/case-space-nk-8.jpg" style="width:45rem;height:30rem" index="" />
 
 The aspects we tried to tweak and improve include key attributes that construct a brand perception, including information channels, space design, product selection, packaging design, naming, logo and service design and its associated vision on life. In coherence with DNA of the original brand, which is a lot to do with healing in a natural way, we then come up with a directional brand platform. After running focus groups with both loyal and competitor users, we synthesis all our findings and held co-creations workshops together with users and marketing teams to translate the findings into design options.
 
-![](/img/case-space-nk-2.jpg)
+<img src="/img/case-space-nk-2.jpg" style="width:45rem;height:30rem" index="" />
 
-![1](/img/case-space-nk-4.jpg)
+<img src="/img/case-space-nk-4.jpg" style="width:45rem;height:30rem" index="1" />
 
-![2](/img/case-space-nk-1.jpg)
+<img src="/img/case-space-nk-1.jpg" style="width:45rem;height:30rem" index="2" />

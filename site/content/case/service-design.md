@@ -25,12 +25,12 @@ Chr. Hansen is a global bioscience company based in Hørsholm, Denmark that deve
 
 4 companies are chosen as  respondents in China including big nation owned dairy companies and small startup companies in both Beijing and Shanghai. The methodology is to walk into clients’ office, to understand peoples’ work-life, work-context, challenges and business goals and test early ideas in relation to future digital services. In-depth interviews are conducted with people from different roles in these companies such as marketing director, R&D directors, CEO and sale department. Each of them did Journey mapping exercise to help researchers understand how they presently interact with Chr. Hansen. The result is that we will able to offer types of service which has a different focus of service contribution. 
 
-![](/img/case-hansen-1.png)
+<img src="/img/case-hansen-1.png" style="width:45rem;height:30rem" index="" />
 
-![](/img/case-hansen-2.jpg)
+<img src="/img/case-hansen-2.jpg" style="width:45rem;height:30rem" index="" />
 
-![1](/img/case-hansen-3.jpg)
+<img src="/img/case-hansen-3.jpg" style="width:45rem;height:30rem" index="1" />
 
-![2](/img/case-hansen-4.jpg)
+<img src="/img/case-hansen-4.jpg" style="width:45rem;height:30rem" index="2" />
 
-![3](/img/case-hansen-5.jpg)
+<img src="/img/case-hansen-5.jpg" style="width:45rem;height:30rem" index="3" />

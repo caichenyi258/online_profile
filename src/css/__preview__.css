@@ -1,3 +1,4 @@
 img {
-    max-width: 50%;
+    max-width: 50% !important;
+    height: auto !important;
 }

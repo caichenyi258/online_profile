@@ -7,12 +7,12 @@ $(() => {
     const $description = $(".case-page .description");
     if ($description.length) {
         $description.find("p:has( > img)").addClass("has-img");
-        const $leadingImgBlocks = $description.find("p:has( > img[alt='1'])");
+        const $leadingImgBlocks = $description.find("p:has( > img[index='1'])");
         $leadingImgBlocks.each((index, leadingImgBlock) => {
             const $leadingImgBlock = $(leadingImgBlock);
             let i = 2;
             while (true) {
-                const $nextImgBlock = $leadingImgBlock.find(` + p:has( > img[alt='${i}'])`);
+                const $nextImgBlock = $leadingImgBlock.find(` + p:has( > img[index='${i}'])`);
                 if (!$nextImgBlock.length) break;
 
                 const $nextImg = $nextImgBlock.find("img");

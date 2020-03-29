@@ -33,14 +33,14 @@ The research findings are presented to more than 50 designers from the Nature gl
 
 The research project aims to get in touch and build a connection with Nature’s 2B users and get to understand their needs of content consumption in the socio-economic context. Types of 2B users are selected world widely to test the current sites. 
 
-![1](/img/case-springer-nature-1.JPG)
+<img src="/img/case-springer-nature-1.JPG" style="width:45rem;height:30rem" index="1" />
 
-![2](/img/case-springer-nature-2.jpg)
+<img src="/img/case-springer-nature-2.jpg" style="width:43.3rem;height:30rem" index="2" />
 
 On-site interviews with respondents are conducted in the campus and in the office as reference to get a bigger picture of Chinese academic administrators’working culture and working environment. Nature brand value, service benefits and brand visuals are showed as stimulus during interviews. 
 
-![1](/img/case-springer-nature-3.jpg)
+<img src="/img/case-springer-nature-3.jpg" style="width:39.9rem;height:30rem" index="1" />
 
-![2](/img/case-springer-nature-4.jpg)
+<img src="/img/case-springer-nature-4.jpg" style="width:40.1rem;height:30rem" index="2" />
 
 Also, respondents were invited to view, compare and give feedbacks on both Chinese contents and English contents on the website and WeChat account.

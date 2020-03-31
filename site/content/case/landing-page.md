@@ -24,8 +24,8 @@ The EF central creative team have recently worked on a modern, responsive redesi
 
 The design team has made two different protocols with two slightly different directions of design. Respondents are recruited based on target market personas. Each respondents are required to conduct a series of tasks on both of the two versions. Tasks are given to test the speed and accuracy with which users are redirected to the best product. And competency and time used are two main measurements indexing the success of tasks accomplished. At the wrap up interview, we understand how pictures and copy texts play an part in building up users’ perception in each market.
 
-<img src="/img/case-eflanding-2.jpg" style="width:45rem;height:30rem" index="" />
+<img src="/img/case-eflanding-2.jpg" style="width:45%" index="" />
 
-<img src="/img/case-eflanding-1.png" style="width:45rem;height:30rem" index="" />
+<img src="/img/case-eflanding-1.png" style="width:45%" index="" />
 
-<img src="/img/case-eflanding-3.jpg" style="width:45rem;height:30rem" index="1" />
+<img src="/img/case-eflanding-3.jpg" style="width:45%" index="1" />

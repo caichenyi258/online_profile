@@ -24,18 +24,18 @@ EF Learning Labs launched a new mobile application to bring a full self-study ex
 
 Based on usage data we from Mixpanel of the first few months, we scope the research, define the respondent profile and set up research hypothesis. The purpose is to lower the churn rate especially within the first month. We involved closely with our local research vendor to manage the whole process step by step including recruiting. It is crucial that the respondents not only meet the user requirements but also being identified with a true motivation of learning during the second screening via phone.
 
-<img src="/img/case-mobilelearning-1.jpg" style="width:45rem;height:30rem" index="1" />
+<img src="/img/case-mobilelearning-1.jpg" style="width:45%" index="1" />
 
-<img src="/img/case-mobilelearning-3.jpg" style="width:45rem;height:30rem" index="2" />
+<img src="/img/case-mobilelearning-3.jpg" style="width:45%" index="2" />
 
 At these two markets, we did usability test to validate the concept and a longitudinal research with online users to understand learning habits, churn path and identify multi-device usage pattern and eventually opportunities for further product optimization for example the feature of rewarding system design.
 
-<img src="/img/case-mobilelearning-8.jpg" style="width:45rem;height:30rem" index="1" />
+<img src="/img/case-mobilelearning-8.jpg" style="width:45%" index="1" />
 
-<img src="/img/case-mobilelearning-9.jpg" style="width:45rem;height:30rem" index="2" />
+<img src="/img/case-mobilelearning-9.jpg" style="width:45%" index="2" />
 
 A Longitudinal diary input is offer qualitative user data to fully comprehend the churn path and thus to suggest the potential product feature to ferment a learning habit.
 
-<img src="/img/case-mobilelearning-2.jpg" style="width:45rem;height:30rem" index="1" />
+<img src="/img/case-mobilelearning-2.jpg" style="width:45%" index="1" />
 
-<img src="/img/case-mobilelearning-5.jpg" style="width:45rem;height:30rem" index="2" />
+<img src="/img/case-mobilelearning-5.jpg" style="width:45%" index="2" />

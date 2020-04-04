@@ -43,7 +43,7 @@ We discovered that to the new pet owner generation, bonding is on top of all the
 
 The project was composed with multiple methods in a series of phases. Starting with desktop research we find out that raising pets and pet product revolution in Asia has quite different trajectory of culture from the market of US, Europe, Asia. Pets in Chinese family are very much likely been treated like a baby or a child, especially by those Dingke families. Pet product categories and pet public service are heavily influenced by the baby product and care service such as pet bath clubs. In order to further note down the key value and mechanism of pet ownership, Touch also reached out to a list of pet professionals including breeders, vet owners, leading pet brand owners, pet salonists and etc.
 
-<img src="/img/case-samsung-6.jpg" style="width:98.8%" index="" />
+<img src="/img/case-samsung-6.jpg" style="width:50%" index="" />
 
 The Samsung designers were invited to participant in the design ethnographies while Touch’s ethnographers were trusted to lead the conversations. The goal of the ethnography was to dive deep into the lifestyle, habits which articulated the attitudes and value system behind pet ownership behaviors. Samples were chosen carefully to present a variety of behavior and value patterns. Each ethnography was conducted at selective occasions to present the best social implication.
 

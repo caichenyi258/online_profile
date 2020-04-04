@@ -29,11 +29,11 @@ The aim was torevealnew pet people relationship, inspired by which to create pet
 
 ## **Research process**
 
-<img src="/img/case-samsung-1.jpg" style="width:45%" index="1" />
+<img src="/img/case-samsung-1.jpg" style="width:33.3%" index="1" />
 
-<img src="/img/case-samsung-2.jpg" style="width:45%" index="2" />
+<img src="/img/case-samsung-2.jpg" style="width:36%" index="2" />
 
-<img src="/img/case-samsung-3.jpg" style="width:45%" index="3" />
+<img src="/img/case-samsung-3.jpg" style="width:28.3%" index="3" />
 
 We discovered that to the new pet owner generation, bonding is on top of all their concerns of pet owning. Pet is a family member. Their experiences and feelings are getting respected by pet owners. How could we encourage interaction between pet and their owner? How could we empower pet owners to be able to collect their pet’s feelings and behaviors in order to enhance the bonding?
 

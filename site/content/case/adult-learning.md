@@ -32,9 +32,9 @@ The project has 3 objectives, 1) discovering trends in the E-learning adult mark
 
 With an objective to identify the new Ed-tech trends and evolution of market development in China, we chose an approach of competitors analysis. The tech trend shows the mobile learning has taken over the e-learning market covering a spread of user motivations. In each market segmentation, we found out some anchor products and this help us to see the big picture of the market trend in the future.
 
-<img src="/img/case-adult-learning-7.jpg" style="width:48.4%" index="1" />
+<img src="/img/case-adult-learning-7.jpg" style="width:50.5%" index="1" />
 
-<img src="/img/case-adult-learning-6.jpg" style="width:50.4%" index="2" />
+<img src="/img/case-adult-learning-6.jpg" style="width:48.3%" index="2" />
 
 In order to understand the learning environment and lifestyle evolution of our target users, we chose to conduct the research at their real life environment with profiles covering both active and lapsed users.
 

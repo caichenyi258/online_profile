@@ -34,4 +34,4 @@ We used multiple tools to collect data of the relationship of these agencies wit
 
 <img src="/img/case-hotelbeds-3.jpg" style="width:60%" index="" />
 
-<img src="/img/case-hotelbeds-2.JPG" style="width:40%" index="" />
+<img src="/img/case-hotelbeds-2.jpg" style="width:40%" index="" />

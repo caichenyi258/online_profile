@@ -26,6 +26,6 @@ The design team has made two different protocols with two slightly different dir
 
 <img src="/img/case-eflanding-2.jpg" style="width:45%" index="" />
 
-<img src="/img/case-eflanding-1.png" style="width:45%" index="" />
+<img src="/img/case-eflanding-1.png" style="width:98.8%" index="" />
 
-<img src="/img/case-eflanding-3.jpg" style="width:45%" index="1" />
+<img src="/img/case-eflanding-3.jpg" style="width:60%" index="1" />

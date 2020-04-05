@@ -21,7 +21,7 @@ cases:
 Usability Test is a reoccuring activity on the labs calendar starting from requesting to reporting. It is usually follows up a process which is regulated and advocated by the research team with a goal to engage more people in the product department with a user centered process.\
 The “Online Classroom” is an online space where hired teachers give English lessons from our subscription-based language learning solution. Currently, UXD team is designing a new mobile EVC which attempts to solve key issues with our legacy vendor. Here, we will be conducting research to test and iterate the early design.
 
-<img src="/img/case-classroom-9.jpg" style="width:45%" index="" />
+<img src="/img/case-classroom-9.jpg" style="width:55%" index="" />
 
 ## Research process
 
@@ -37,14 +37,12 @@ One of the testing hypothesis is whether or not students like to hide the panels
 
 <img src="/img/case-classroom-10.jpg" style="width:45%" index="2" />
 
-a image
+<img src="/img/case-classroom-7.jpg" style="width:50%" index="1" />
 
-<img src="/img/case-classroom-7.jpg" style="width:45%" index="1" />
-
-<img src="/img/case-classroom-6.jpg" style="width:45%" index="2" />
+<img src="/img/case-classroom-6.jpg" style="width:30%" index="2" />
 
 Issue list and action plan were summerized based on group discussion with PO and UX designers.
 
-<img src="/img/case-classroom-4.jpg" style="width:45%" index="1" />
+<img src="/img/case-classroom-4.jpg" style="width:34%" index="1" />
 
-<img src="/img/case-classroom-1.jpg" style="width:45%" index="2" />
+<img src="/img/case-classroom-1.jpg" style="width:25.2%" index="2" />

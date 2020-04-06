@@ -18,7 +18,7 @@ cases:
 
 ## **Background**
 
-EF 360 is an innovation incubator inside EF focusing on tech triggered innovation trend such as AI and ML. China is advanced in language learning product innovation empowered with AI. With the new chief innovation officer onboard, the central research team is requested to scrutinize into the innovation trend of Ed-tech industry, with a focus on the market landscape mapping analysis in China1.
+EF 360 is an innovation incubator inside EF focusing on tech triggered innovation trend such as AI and ML. China is advanced in language learning product innovation empowered with AI. With the new chief innovation officer onboard, the central research team is requested to scrutinize into the innovation trend of Ed-tech industry, with a focus on the market landscape mapping analysis in China.
 
 ## **My Role**
 

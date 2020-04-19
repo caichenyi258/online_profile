@@ -45,4 +45,5 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields:
           - {label: Avatar, name: avatar, widget: image}
+          - {label: "Introduction", name: "body", widget: "markdown"}
           - {label: Clients, name: clients, widget: image}

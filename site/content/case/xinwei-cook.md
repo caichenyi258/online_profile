@@ -19,7 +19,7 @@ cases:
 
 ## Background
 
-Xinwei Cook is a Shanghai-based food delivery start up with full platform digital service and received more than ¥20 million investment in total. Leading the sustainable eating and cooking at home trend, Xinwei Cook’s goal is to act as a personal sous chef, carefully preparing the mise-en-place for a dish – prepping ingredients – and delivering the portions to your door. My job is to identify product opportunities and team up with the executive team, product team and marketing team to design an innovative ready-to-cook experience.
+Xinwei Cook is a Shanghai-based food delivery start up with full platform digital service and received more than 20 million RMB investment in total. Leading the sustainable eating and cooking at home trend, Xinwei Cook’s goal is to act as a personal sous chef, carefully preparing the mise-en-place for a dish – prepping ingredients – and delivering the portions to your door. My job is to identify product opportunities and team up with the executive team, product team and marketing team to design an innovative ready-to-cook experience.
 
 ## Research process
 

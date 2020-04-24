@@ -1,0 +1,38 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  watch:
+    types: [started]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - run: npm run build
+      env:
+        CI: true  
+    - name: rsync deployments
+      if: success()      
+      uses: burnett01/rsync-deployments@4.0
+      with:
+        switches: -avzr --delete
+        path: dist/
+        remote_path: /opt/website2/public/
+        remote_host: 47.101.163.89
+        remote_user: root
+        remote_key: ${{ secrets.DEPLOY_KEY }} 

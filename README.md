@@ -1,8 +1,1 @@
-Install packages
-```
-npm install
-```
-Build
-```
-npm run build
-```
+this repo is archived, new repo move to here https://github.com/caichenyi258/emily-stories
